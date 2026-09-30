@@ -16,18 +16,18 @@ It provides insights into **which customer groups contribute most to revenue** a
 - Texas, Pennsylvania and Ohio have high sales but are loss-making, so sales rank alone hides real losses
 - Furniture earns 451K in sales but only a 2.2% margin, versus 19.2% for Technology
 - Consumer customers generate 48% of sales, Corporate 33%, Home Office 19%
-- Forecast shows [rising / falling / flat] sales over the next [15 days/months]
+- Forecast shows rising / falling / flat sales over the next 15 days]
 
 ## Dashboard Preview
 ![Dashboard](Forecasting_screenshot.png)
 
 ## Data
-- Source: Superstore sales dataset [confirm where you got it]
+- Source: Superstore sales dataset from Kaggle
 - Size: 5,901 rows, 23 columns (Jan 2019 to Dec 2020)
 - Key columns: Order Date, Segment, Region, State, Category, Sub-Category, Sales, Quantity, Profit
 
 ## What I Did
-- Cleaned and shaped the data in Power Query: [list only your real Applied Steps]
+- Cleaned and shaped the data in Power bi
 - Built visuals for sales by state and sales over time
 - Used Power BI's forecasting (Analytics pane) to project sales for the next [15 days/months]
 
